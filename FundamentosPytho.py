@@ -27,3 +27,5 @@ if __name__ == "__main__":
 
     a, b, c = 98, 3.1416, "Bienvenido"
     print(a, b, c)
+
+    print("hola")
